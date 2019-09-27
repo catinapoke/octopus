@@ -6,9 +6,7 @@ This game is unrealesed(and unfinished) because of unperspective genre. Genre is
 Coder - [@catinapoke](https://github.com/catinapoke) (me, also written as a FrozenMike in "About" option in menu)  
 Art designer and Game designer - Legosky007 ([VK Group](https://vk.com/legoskyisdrawing))
 
-# Game gifs
-
-_There will be gifs with gameplay_
+# Gameplay and gifs
 
 Basic gameplay is moving up by clicking on line when red line in green zone at the top of screen.  
 Click on the same line -> move up, click on different -> move to center of this line
